@@ -1,4 +1,4 @@
-precessing method,yield strength YS > 230 Mpa,type of corrosion,Days,corrosion rate CR~ 0.05-0.075 mm/year,ultimate tensile strength UTS > 300 MPa,elongation ~15-18%,"microhardness, HV",LI,ZN,CU,AG,MG,Zn11Mg2,LiZn6,Cu,LiZn7,Mg,Mg2Zn11,Zn2Mg,LiZn5,AgZn3,AgZn4,CuZn5,Zn3Ag,MgZn2,0,Mg54Ag17,MgZn,Zn,CuZn4,Mg4Ag,LiZn8,LiZn4
+PM,YS,TC,PT,CR,UTS,EL,MH,"Li, (w%)","Zn, (w%)","Cu, (w%)","Ag, (w%)","Mg, (w%)",Zn11Mg2 phase,LiZn6 phase,Cu phase,LiZn7 phase,Mg phase,Mg2Zn11 phase,Zn2Mg phase,LiZn5 phase,AgZn3 phase,AgZn4 phase,CuZn5 phase,Zn3Ag phase,MgZn2 phase,Unkown,Mg54Ag17 phase,MgZn phase,Zn phase,CuZn4 phase,Mg4Ag phase,LiZn8 phase,LiZn4 phase
 0,240,5,14,0.16,350,15,80,2,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 0,425,5,14,0.06,450,14,95,4,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 0,475,5,14,0.05,560,2,110,6,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
